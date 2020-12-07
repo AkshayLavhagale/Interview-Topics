@@ -1,0 +1,9 @@
+package Java_Design_Pattern;
+
+public class Main {
+    public static void main(String[] args) {
+        User user = new User();
+        user.name = "Akshay";
+        System.out.printin(user.name);
+    }
+}
